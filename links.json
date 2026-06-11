@@ -639,6 +639,12 @@
         "url": "https://www.v2ex.com/",
         "desc": "技术创意社区",
         "data-desc": "中文技术创意社区，程序员、设计师、极客交流，V2EX"
+      },
+      {
+        "title": "V2EX",
+        "url": "https://www.52pojie.cn/",
+        "desc": "破解技术学习",
+        "data-desc": "专注于软件安全，病毒分析，安全防护的技术交流社区"
       }
     ]
   },
