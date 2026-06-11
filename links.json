@@ -670,24 +670,6 @@
         "data-desc": "视频弹幕网站，涵盖动漫、学习与娱乐，B站、b站"
       },
       {
-        "title": "Netflix",
-        "url": "https://www.netflix.com/",
-        "desc": "流媒体影视平台",
-        "data-desc": "全球最大流媒体影视平台，Netflix，原创剧集、电影、纪录片"
-      },
-      {
-        "title": "Disney+",
-        "url": "https://www.disneyplus.com/",
-        "desc": "迪士尼流媒体",
-        "data-desc": "迪士尼旗下流媒体平台，Disney+，漫威、星球大战、皮克斯"
-      },
-      {
-        "title": "HBO Max",
-        "url": "https://www.max.com/",
-        "desc": "HBO流媒体平台",
-        "data-desc": "HBO 旗下流媒体平台，Max，美剧、电影、纪录片，权力的游戏"
-      },
-      {
         "title": "腾讯视频",
         "url": "https://v.qq.com/",
         "desc": "国内主流视频平台",
@@ -704,6 +686,24 @@
         "url": "https://www.iqiyi.com/",
         "desc": "国内影视平台",
         "data-desc": "百度旗下影视平台，爱奇艺，国产剧、综艺、动漫在线观看"
+      },
+      {
+        "title": "Netflix",
+        "url": "https://www.netflix.com/",
+        "desc": "流媒体影视平台",
+        "data-desc": "全球最大流媒体影视平台，Netflix，原创剧集、电影、纪录片"
+      },
+      {
+        "title": "Disney+",
+        "url": "https://www.disneyplus.com/",
+        "desc": "迪士尼流媒体",
+        "data-desc": "迪士尼旗下流媒体平台，Disney+，漫威、星球大战、皮克斯"
+      },
+      {
+        "title": "HBO Max",
+        "url": "https://www.max.com/",
+        "desc": "HBO流媒体平台",
+        "data-desc": "HBO 旗下流媒体平台，Max，美剧、电影、纪录片，权力的游戏"
       },
       {
         "title": "芒果TV",
