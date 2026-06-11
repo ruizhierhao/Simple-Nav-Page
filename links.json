@@ -414,6 +414,12 @@
     "section": "学习与资讯",
     "items": [
       {
+        "title": "同花顺",
+        "url": "https://www.10jqka.com.cn/",
+        "desc": "金融信息服务平台",
+        "data-desc": "股票软件，行情显示、分析交易等功能"
+      },
+      {
         "title": "少数派",
         "url": "https://sspai.com/",
         "desc": "数字生活方式媒体",
@@ -550,18 +556,18 @@
         "url": "https://www.khanacademy.org/",
         "desc": "免费在线教育平台",
         "data-desc": "免费在线教育平台，可汗学院，数学、科学、编程等课程"
-      },
-      {
-        "title": "同花顺",
-        "url": "https://www.10jqka.com.cn/",
-        "desc": "金融信息服务平台",
-        "data-desc": "股票软件，行情显示、分析交易等功能"
       }
     ]
   },
   {
     "section": "社交与社区",
     "items": [
+      {
+        "title": "吾爱破解",
+        "url": "https://www.52pojie.cn/",
+        "desc": "破解技术学习",
+        "data-desc": "专注于软件安全，病毒分析，安全防护的技术交流社区"
+      },
       {
         "title": "Twitter / X",
         "url": "https://twitter.com/",
@@ -645,12 +651,6 @@
         "url": "https://www.v2ex.com/",
         "desc": "技术创意社区",
         "data-desc": "中文技术创意社区，程序员、设计师、极客交流，V2EX"
-      },
-      {
-        "title": "吾爱破解",
-        "url": "https://www.52pojie.cn/",
-        "desc": "破解技术学习",
-        "data-desc": "专注于软件安全，病毒分析，安全防护的技术交流社区"
       }
     ]
   },
