@@ -550,6 +550,12 @@
         "url": "https://www.khanacademy.org/",
         "desc": "免费在线教育平台",
         "data-desc": "免费在线教育平台，可汗学院，数学、科学、编程等课程"
+      },
+      {
+        "title": "同花顺",
+        "url": "https://www.10jqka.com.cn/",
+        "desc": "金融信息服务平台",
+        "data-desc": "股票软件，行情显示、分析交易等功能"
       }
     ]
   },
