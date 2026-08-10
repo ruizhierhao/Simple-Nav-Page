@@ -1011,7 +1011,8 @@
         "title": "PDF工具",
         "url": "https://pdf.884785.xyz/",
         "desc": "PDF在线网页工具",
-        "data-desc": "PDF在线处理、拼接合并、拆分压缩等"
+        "data-desc": "PDF在线处理、拼接合并、拆分压缩等",
+        "icon": "icons/logos/favicon.ico"
       },
       {
         "title": "DeepL",
