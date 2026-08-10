@@ -1004,7 +1004,8 @@
         "title": "PDF处理工具大全",
         "url": "https://tool.884785.xyz/",
         "desc": "PDF在线处理工具",
-        "data-desc": "PDF在线工具箱、拼接合并、拆分压缩等"
+        "data-desc": "PDF在线工具箱、拼接合并、拆分压缩等",
+        "icon": "icons/logos/favicon.ico"
       },
       {
         "title": "PDF工具",
