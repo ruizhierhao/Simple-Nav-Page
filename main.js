@@ -4,7 +4,7 @@
 
 // ── 图标 & 背景 配置 ────────────────────────────────────────
 const FAVICON_PROVIDER = 'google';
-const PROXY = 'https://dh.884785.xyz/';
+const PROXY = 'https://dh.884785.xyz';
 
 function withProxy(originUrl) {
   if (!PROXY) return originUrl;
