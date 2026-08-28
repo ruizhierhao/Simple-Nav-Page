@@ -883,6 +883,12 @@
         "data-desc": "微软官方 Windows 11/10 安装工具与 Office 下载"
       },
       {
+        "title": "Vizyn系统收录",
+        "url": "https://vizyn.dpdns.org/",
+        "desc": "系统收录平台",
+        "data-desc": "这里收录了各种Windows民间修改的版本"
+      },
+      {
         "title": "图吧工具箱",
         "url": "https://www.tbtool.cn/",
         "desc": "硬件检测工具集",
@@ -929,6 +935,12 @@
         "url": "https://www.pc521.net/",
         "desc": "精简优化系统",
         "data-desc": "不忘初心博客，分享 Win10/Win11 精简优化版系统镜像与教程"
+      },
+      {
+        "title": "HEU_KMS",
+        "url": "https://github.com/zbezj/HEU_KMS_Activator/releases",
+        "desc": "专业的激活工具",
+        "data-desc": "一键激活Windows系统+Office全系列软件"
       }
     ]
   },
